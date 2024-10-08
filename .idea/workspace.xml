@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01a8d738-f3de-4404-9805-3eb1c45cc22f" name="Changes" comment="Migrated back to old cart">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/eoin/webdev/BasketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/eoin/webdev/BasketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/resources/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/resources/templates/cart.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cmBiVcrAyGihCOanG9j4toV25l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/eoin/big/Programming/web-dev/app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f5b4f25230a4062172ef4b115cec2c5a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebDevApplication">
+    <configuration name="SpringExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="web-dev" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="eoin.webdev.SpringExampleApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eoin.webdev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDevApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web-dev" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="eoin.webdev.WebDevApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringExampleApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a8d738-f3de-4404-9805-3eb1c45cc22f" name="Changes" comment="" />
+      <created>1708707004391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708707004391</updated>
+      <workItem from="1708707007984" duration="1495000" />
+      <workItem from="1708708859112" duration="1878000" />
+      <workItem from="1708716558242" duration="4287000" />
+      <workItem from="1708866352900" duration="48000" />
+      <workItem from="1708866408511" duration="14008000" />
+      <workItem from="1708956019036" duration="22000" />
+      <workItem from="1708989087758" duration="698000" />
+      <workItem from="1709039794908" duration="2333000" />
+      <workItem from="1709043232786" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic step 2 (catalogue) completed">
+      <option name="closed" value="true" />
+      <created>1708883442904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708883442904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic cookie now working">
+      <option name="closed" value="true" />
+      <created>1708886999929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708886999929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Shopping cart functionality with removing an item">
+      <option name="closed" value="true" />
+      <created>1708890091740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708890091740</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Full shopping cart functionality">
+      <option name="closed" value="true" />
+      <created>1708891411378</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708891411378</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Nicer looking bootstrap cart - too many divs">
+      <option name="closed" value="true" />
+      <created>1708892747135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708892747135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Migrated back to old cart">
+      <option name="closed" value="true" />
+      <created>1709040385597</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709040385597</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic step 2 (catalogue) completed" />
+    <MESSAGE value="Basic cookie now working" />
+    <MESSAGE value="Shopping cart functionality with removing an item" />
+    <MESSAGE value="Full shopping cart functionality" />
+    <MESSAGE value="Nicer looking bootstrap cart - too many divs" />
+    <MESSAGE value="Migrated back to old cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Migrated back to old cart" />
+  </component>
+</project>
