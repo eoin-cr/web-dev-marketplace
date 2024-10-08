@@ -1,0 +1,13 @@
+body {
+    padding-top: 20px;
+}
+.product-item {
+    margin-bottom: 10px;
+}
+.shopping-cart-link {
+    display: block;
+    margin-top: 20px;
+}
+.login-signup {
+    margin-top: 20px;
+}
